@@ -4,9 +4,12 @@
 -->
 
 <!-- Main profile page -->
+<!--
+
 <p align="center">
   <img src="" width="150" height="150" alt="Luis Díaz" style="border-radius: 50%; border: 2px solid blue;">
 </p>
+-->
 
 <!-- Contact shields -->
 <p align="center">
@@ -46,7 +49,7 @@
 
 ## About me
 
-Soy un desarrollador 
+SITIO EN MANTENIMIENTO
 
 
 <p align="right"><a href="#readme-top">Volver arriba</a></p>
