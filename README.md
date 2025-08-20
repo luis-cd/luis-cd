@@ -20,7 +20,7 @@
 
 <hr>
 
-<p align="center">Some Technologies I've Worked With</p>
+<br><p align="center">Some Technologies I've Worked With</p></br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
