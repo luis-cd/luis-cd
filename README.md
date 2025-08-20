@@ -48,8 +48,10 @@
 </p>
 
 ## About me
+👋 Hi there! I’m a Senior Software Developer and a true polyglot — both in spoken languages and in code. From JavaScript/React and Node.js/Express to Python/Django/Flask, PHP, and beyond, I enjoy moving between stacks and picking the right tool for the job. Not gonna lie, I do it, mostly to tweak a bit with everything.
 
-👋 Hi there! I’m a Senior Software Developer passionate about solving complex problems and turning coffee ☕ into clean, scalable solutions.
+💻 My main toolkit includes JavaScript/React, Node.js/Express, and the Python ecosystem (Django/Flask) — though I also have a long-standing friendship with PHP (the kind of friend you never really lose 😅). Currently, I'm working on my own startup using Java/Java Springboot and Golang. Wish me luck.
 
+⚡ My work ranges from building scalable applications and clean architectures to refining workflows with version control and CI/CD tools.
 
 <p align="right"><a href="#readme-top">Volver arriba</a></p>
