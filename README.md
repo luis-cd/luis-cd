@@ -20,6 +20,8 @@
 
 <hr>
 
+<p align="center">Some Technologies I've Worked With</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
