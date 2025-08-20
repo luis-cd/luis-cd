@@ -20,7 +20,16 @@
 
 <hr>
 
-<br><h1 align="center">Some Technologies I've Worked With</h1></br>
+## About me
+👋 Hi there! I’m a Senior Software Developer and a true polyglot — both in spoken languages and in code. From JavaScript/React and Node.js/Express to Python/Django/Flask, PHP, and beyond, I enjoy moving between stacks and picking the right tool for the job. Not gonna lie, I do it, mostly to tweak a bit with everything.
+
+💻 My main toolkit includes JavaScript/React, Node.js/Express, and the Python ecosystem (Django/Flask) — though I also have a long-standing friendship with PHP (the kind of friend you never really lose 😅). Currently, I'm working on my own startup using Java/Java Springboot and Golang. Wish me luck.
+
+⚡ My work ranges from building scalable applications and clean architectures to refining workflows with version control and CI/CD tools.
+
+<hr>
+
+## Tools On My Toolkit
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
@@ -54,12 +63,5 @@
   
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
-
-## About me
-👋 Hi there! I’m a Senior Software Developer and a true polyglot — both in spoken languages and in code. From JavaScript/React and Node.js/Express to Python/Django/Flask, PHP, and beyond, I enjoy moving between stacks and picking the right tool for the job. Not gonna lie, I do it, mostly to tweak a bit with everything.
-
-💻 My main toolkit includes JavaScript/React, Node.js/Express, and the Python ecosystem (Django/Flask) — though I also have a long-standing friendship with PHP (the kind of friend you never really lose 😅). Currently, I'm working on my own startup using Java/Java Springboot and Golang. Wish me luck.
-
-⚡ My work ranges from building scalable applications and clean architectures to refining workflows with version control and CI/CD tools.
 
 <p align="right"><a href="#readme-top">Volver arriba</a></p>
