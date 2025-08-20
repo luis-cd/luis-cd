@@ -49,7 +49,7 @@
 
 ## About me
 
-SITIO EN MANTENIMIENTO
+👋 Hi there! I’m a Senior Software Developer passionate about solving complex problems and turning coffee ☕ into clean, scalable solutions.
 
 
 <p align="right"><a href="#readme-top">Volver arriba</a></p>
